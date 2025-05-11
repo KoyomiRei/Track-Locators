@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Track_Locators logo" width="200"/>
+</p>
 
 
 <h1 align="center">Track Locators</h1>
