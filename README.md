@@ -8,13 +8,10 @@ Blender add-on to replace reconstructed motion tracks with empties for export to
 
 
 
-
-
 **Download last release:**
 
+[![Download](https://img.shields.io/badge/Download-Track_Locators-f474a7?style=for-the-badge)](https://github.com/KoyomiRei/Track-Locators/releases/latest)
 
-
-000
 
 
 
