@@ -50,7 +50,7 @@ Blender add-on to replace reconstructed motion tracks with empties for export to
 - Click "Create emptirs track" to create empty and set it to tracks.****
 
 
-#№ Exporting Animated Tracks via Track Locators
+## Exporting Animated Tracks via Track Locators
 
 Follow these steps to export your tracked animation as empties in FBX format:
 
