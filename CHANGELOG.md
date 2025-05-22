@@ -1,5 +1,27 @@
 # Changelog
 
+## v2.0.0 — 2025-05-23
+
+### Tracking Source
+
+* Add **Source** option (Camera / Object) for creating empties
+
+### Animated Empties
+
+* Empties generated on object tracks inherit animation via parenting
+* You can bake this animation for export
+
+### Empties Management
+
+* **Delete Empties** button to remove all generated empties
+* Automatically select newly created empties
+
+### UI Improvements
+
+### Bug Fixes
+
+---
+
 ## v1.2.0 — 2025-05-19
 
 ### Name Templates
